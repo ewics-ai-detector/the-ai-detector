@@ -1,4 +1,7 @@
 datasets/*
+distilbert_model.zip
+distilbert_model/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
