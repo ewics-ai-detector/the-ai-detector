@@ -1,0 +1,23 @@
+                precision    recall  f1-score   support
+
+      Non-AI       0.78      0.64      0.71      2500
+          AI       0.70      0.82      0.75      2500
+
+    accuracy                           0.73      5000
+   macro avg       0.74      0.73      0.73      5000
+weighted avg       0.74      0.73      0.73      5000
+
+
+
+Baseline:
+
+Most Frequent Class: 0
+Baseline Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.50      1.00      0.67      2500
+           1       0.00      0.00      0.00      2500
+
+    accuracy                           0.50      5000
+   macro avg       0.25      0.50      0.33      5000
+weighted avg       0.25      0.50      0.33      5000
