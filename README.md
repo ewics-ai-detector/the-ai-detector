@@ -1,5 +1,5 @@
 # the-ai-detector
-Please see `cs4765-project.ipynb`, in the notebook, there contains training code as well as code for testing our fine tuned model. There also contains code on some data exploration we did before fine tuning our model. Every cell contains comments explaining what its purpose is.
+Please see `cs4765-project.ipynb`, in the notebook, there contains training code as well as code for testing our fine tuned model. There also contains code on some data exploration we did before fine tuning our model. Every cell contains comments explaining what its purpose is. Please be sure to adjust the dataset file paths as needed.
 
 # Setup
 - Install dependencies specified in requirements.txt by running `pip install -r requirements.txt`. There is also a cell that can be copied that contains all the necessary pip installs. Please see cell 2. `pip install datasets transformers torch matplotlib seaborn`
