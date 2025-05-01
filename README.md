@@ -1,7 +1,10 @@
 # the-ai-detector
+Currently, Github is experiencing bugs displaying notebooks as discussed in this issue https://github.com/orgs/community/discussions/155944, to work around this, I have uploaded a pdf copy of the code for anyone to view. Enjoy :)
+
 Please see `cs4765-project.ipynb`, in the notebook, there contains training code as well as code for testing our fine tuned model. There also contains code on some data exploration we did before fine tuning our model. Every cell contains comments explaining what its purpose is. Please be sure to adjust the dataset file paths as needed. The dataset and zipped DistilBert model were submitted through D2L.
 
 If you would like to use this model yourself, it can be downloaded from the Hugging Face Hub from [this repository](https://huggingface.co/EwicGoat/ai-gen-1/tree/main)
+
 
 # Setup
 - Install dependencies specified in requirements.txt by running `pip install -r requirements.txt`. There is also a cell that can be copied that contains all the necessary pip installs. Please see cell 2. `pip install datasets transformers torch matplotlib seaborn`
